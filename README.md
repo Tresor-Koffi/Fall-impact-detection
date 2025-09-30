@@ -71,9 +71,7 @@ pip install -r requirements.txt
 
 2. **Open the Jupyter Notebook**:
 ```bash
-jupyter notebook fall_detection.ipynb
-```
-
+jupyter notebook impact_fall_detection.ipynb
 3. **Run all cells** to reproduce the results from the paper.
 
 ### Pipeline Overview
